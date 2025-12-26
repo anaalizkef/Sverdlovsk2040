@@ -39,3 +39,6 @@ button {
 button:hover {
   background: #6366f1;
 }
+p {
+  line-height: 1.6;
+}
